@@ -1,3 +1,3 @@
 #THE NEWSPAPER
 
-lifestyle: mairinger, zimmermann
+lifestyle, tech: mairinger, zimmermann
