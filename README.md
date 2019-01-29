@@ -5,3 +5,8 @@ lifestyle, tech: mairinger, zimmermann
 
 
 work, hr, sports: zeilinger
+
+
+
+
+eps: stangelberger
